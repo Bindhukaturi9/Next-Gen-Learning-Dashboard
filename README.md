@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearnOS — Student Dashboard
 
 A futuristic learning dashboard built with Next.js 15, Supabase, Framer Motion, and Tailwind CSS v4.
@@ -114,3 +115,7 @@ All animations use Framer Motion spring physics (`type: "spring", stiffness: 300
 ---
 
 *Made for the Frontend Intern Challenge*
+=======
+# Next-Gen-Learning-Dashboard
+web project
+>>>>>>> 86b67bc30930a85ef42354a3fdd1eb16e4a401fa

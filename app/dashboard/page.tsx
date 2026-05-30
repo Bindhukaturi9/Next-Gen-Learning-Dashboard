@@ -1,7 +1,6 @@
 import { Suspense } from "react";
 import { getCourses } from "@/lib/data";
 import { BentoGrid } from "@/components/dashboard/BentoGrid";
-import { CoursesSection } from "@/components/dashboard/CoursesSection";
 import DashboardLoading from "./loading";
 
 // Force dynamic rendering so Supabase is called fresh each request
